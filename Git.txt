@@ -1,5 +1,0 @@
-git init
-git config user.name "Muhammad Mahmoud"
-git config user.email "programmer.muhammad@gmail.com"
-git remote add origin https://github.com/MuhammadMemo/CreditCard
-
