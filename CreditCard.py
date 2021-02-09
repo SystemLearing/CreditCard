@@ -87,6 +87,3 @@ act.CurrentBalance()
 act.Withdrawal(500)
 act.Transeaction()
 
-
-# for i in act:
-#     print(i.)
